@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
                            'Feel free to ping me at stefano.tortarolo@gmail.com'
 
   s.add_dependency "nokogiri", ">= 1.5.10"
-  s.add_dependency "rest-client", '~> 1.6', '>= 1.6.7'
+  s.add_dependency "rest-client", '>= 1.6.7'
   s.add_dependency "httpclient", '~> 2.3', '>= 2.3.3'
   s.add_dependency "ruby-progressbar", "~> 1.5", ">= 1.5.1"
 
